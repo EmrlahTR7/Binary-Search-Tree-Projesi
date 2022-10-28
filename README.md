@@ -6,7 +6,7 @@
 
                   5
               /        \
-            3           7         - 5 den küşükler sola büyük olanlar sola ayrılır.
+            3           7         - 5 den küçükler sola büyük olanlar sola ayrılır.
           /   \        /  \
          1     4      6    8      - 3 den küçükler sola büyükler sağ tarafa ayrıldı. aynı işlem 7 içinde geçerli.
         / \                  \
