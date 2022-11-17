@@ -12,3 +12,4 @@
         / \                  \
        0   2                  9   - 1,4,6,8 den büyük olanlar sağ tarafta yer aldı küçükler ise sol, eğer büyük ve küçük değerleri yoksa boş bırakıldı.
        
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje
